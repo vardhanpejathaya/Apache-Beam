@@ -1,0 +1,34 @@
+[
+  {
+    "accountNo": "12131",
+    "loanAccountNo": "l1010",
+    "loanAmount": "10000",
+    "loanOutstanding": "50000",
+    "loanStartDate": "5-Aug-10",
+    "loanEndDate": "4-Aug-20"
+  },
+  {
+    "accountNo": "19634",
+    "loanAccountNo": "m2020",
+    "loanAmount": "20000",
+    "loanOutstanding": "100000",
+    "loanStartDate": "31-Aug-19",
+    "loanEndDate": "30-Aug-29"
+  },
+  {
+    "accountNo": "32454",
+    "loanAccountNo": "n3030",
+    "loanAmount": "30000",
+    "loanOutstanding": "150000",
+    "loanStartDate": "8-Nov-13",
+    "loanEndDate": "7-Nov-23"
+  },
+  {
+    "accountNo": "65436",
+    "loanAccountNo": "o4040",
+    "loanAmount": "40000",
+    "loanOutstanding": "20000",
+    "loanStartDate": "7-Jan-09",
+    "loanEndDate": "6-Jan-19"
+  }
+]
