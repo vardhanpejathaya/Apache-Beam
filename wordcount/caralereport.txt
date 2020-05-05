@@ -1,0 +1,4 @@
+Toyota:35
+Acura:10
+Ford:10
+Lexus:5

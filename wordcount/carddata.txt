@@ -1,0 +1,7 @@
+#id,brand_name,model_name,sales_number
+1,Toyota,Highlander,10
+2,Toyota,Solara,20
+3,Ford,Expedition EL,10
+4,Toyota,Previa,5
+5,Lexus,SC,5
+6,Acura,MDX,10
